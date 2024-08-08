@@ -1,1 +1,1 @@
-# .github
+# The Aesthetics mobile app
